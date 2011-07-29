@@ -1,7 +1,7 @@
 #!/bin/sh
 if [ ! $# -eq 2 ]
 then
-    echo "Modern Plone Site Policy Generator"
+    echo "Plone Site Policy Generator"
     echo "Usage: $0 [short policy name] [full policy name]"
     echo "Example: $0 myawesomepolicy \"My Awesome Policy\""
     exit 1

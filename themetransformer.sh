@@ -1,7 +1,7 @@
 #!/bin/sh
 if [ ! $# -eq 2 ]
 then
-    echo "Modern Plone Theme Generator"
+    echo "Plone Theme Generator"
     echo "Usage: $0 [short theme name] [full theme name]"
     echo "Example: $0 myawesometheme \"My Awesome Theme\""
     exit 1
